@@ -56,11 +56,59 @@ Text…
 
 # 6 Pros and Cons of coverage tools used and Metrics you report
 
-Text…
+Eclemma:
+
+Pros:
+Eclemma is a user-friendly tool that can be easily integrated with the Eclipse IDE, making it easy for developers to use.
+
+Eclemma offers comprehensive details regarding the code coverage of JUnit tests. It makes it simpler for developers to discover sections of their code that could need more testing by showing which lines of code were executed, branches that were missed and the method coverage.
+
+The code coverage parameters in Eclemma can be modified by users to suit their unique testing requirements. Users can specify the minimum required amount of coverage, and Eclemma will produce reports depending on those choices.
+Cons:
+Code coverage analysis is the only testing function that Eclemma offers; it does not include data-driven testing, or performance testing.
+
+Eclemma is dependent on the Eclipse IDE, making it less accessible for developers who do not use Eclipse.
+
+Code Cover:
+
+Pros ;
+Code cover makes it simpler to build tests that are more thorough by pointing out untested code.
+
+Reports on code coverage can be used to gauge how well tests are working, giving developers useful information. 
+Cons;
+Hard to set up and very time consuming.
+
+Does not measure all the required metrics.
+
+
+Metrics: 
+
+Statement coverage: 
+Pros:
+Statement coverage can make it simpler to develop tests that are more thorough by pointing out areas of the code that have not been tested.
+Developers can use statement coverage as a quantitative indicator of how well the code is tested.
+Cons:
+Statement coverage does not measure the quality of the tests or the quality of the code itself.
+Statement coverage does not guarantee that all possible test cases have been executed.
+Branch coverage : 
+Pros : 
+Branch coverage can make it simpler to develop tests that are more thorough by pointing out areas of the code that have not been tested.
+Branch coverage gives developers a quantitative evaluation of the quality of the code testing.
+Cons:
+Branch coverage does not measure the quality of the tests or the quality of the code itself.
+Branch coverage does not guarantee that all possible test cases have been executed.
+Method coverage: 
+Pros : 
+Method coverage can make it simpler to build more thorough tests by pointing up untested methods.
+Method coverage gives developers a numerical assessment of how well the methods in the code are tested.
+Cons:
+The quality of the tests or the code itself is not measured by method coverage.
+The execution of every feasible test case cannot be ensured by method coverage.
+
 
 # 7 A comparison on the advantages and disadvantages of requirements-based test generation and coverage-based test generation.
 
-Text…
+
 
 # 8 A discussion on how the team work/effort was divided and managed
 
@@ -68,7 +116,9 @@ Text…
 
 # 9 Any difficulties encountered, challenges overcome, and lessons learned from performing the lab
 
-Text…
+
+It was difficult to grasp the concept of Coverage and how to apply Eclemma at first. During the early phase, we focused on grasping the concept and being acquainted with the tools and coverage approaches. We then tested and differentiated between boundary value analysis and equivalence class analysis after we had a common understanding. Despite the challenges, we were able to effectively implement all tests in two groups using pair testing. This lab's practical experience emphasized the need of being able to distinguish between different forms of analysis in white box testing.
+
 
 # 10 Comments/feedback on the lab itself
 
