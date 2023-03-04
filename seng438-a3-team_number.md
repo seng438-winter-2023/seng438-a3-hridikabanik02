@@ -2,11 +2,11 @@
 
 **Lab. Report #3 – Code Coverage, Adequacy Criteria and Test Case Correlation**
 
-| Group \#:      |     |
+| Group \#:      |  16   |
 | -------------- | --- |
 | Student Names: |     |
-|                |     |
-|                |     |
+|        Hridika Banik        |     |
+|           Radia Jannat     |     |
 |                |     |
 
 (Note that some labs require individual reports while others require one report
