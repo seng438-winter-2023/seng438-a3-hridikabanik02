@@ -7,7 +7,8 @@
 | Student Names: |     |
 |        Hridika Banik        |     |
 |           Radia Jannat     |     |
-|                |     |
+|        MD Shaherier Khan        |     |
+|        Syed Mohammed Abbas Kazmi        |     |
 
 (Note that some labs require individual reports while others require one report
 for each group. Please see each lab document for details.)
