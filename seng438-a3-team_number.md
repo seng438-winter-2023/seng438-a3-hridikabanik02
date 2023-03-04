@@ -149,5 +149,4 @@ It was difficult to grasp the concept of Coverage and how to apply Eclemma at fi
 
 
 # 10 Comments/feedback on the lab itself
-
-Text…
+This assignment instroduced the basics of White-box testing and allowed us to practice it thoroughly, the TA was very helpful in fixing errors.
