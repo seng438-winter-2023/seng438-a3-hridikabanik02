@@ -19,7 +19,7 @@ In this assignment we were asked to asked to implement white-box testing for the
 
 # 2 Manual data-flow coverage calculations for X and Y methods
 
-Text…
+The answer to this question is in the Image folder in this repository.
 
 # 3 A detailed description of the testing strategy for the new unit test
 
@@ -52,7 +52,7 @@ Function: shiftWithNoZeroCrossing(double value, double delta). This was a privat
 
 # 5 A detailed report of the coverage achieved of each class and method (a screen shot from the code cover results in green and red color would suffice)
 
-Text…
+The answer to this question is in the Image folder in this repository.
 
 # 6 Pros and Cons of coverage tools used and Metrics you report
 
