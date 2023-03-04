@@ -136,16 +136,11 @@ Advantages:
 
 
 
-
-
-
-
-
   
 
 # 8 A discussion on how the team work/effort was divided and managed
 
-Text…
+We made sure that each team member understood the various kinds of Coverages throughout the task and how to use the tool to apply Coverage to the Junit tests. The planning and execution of the tests were done using the pair programming technique. We made the decision to enhance line, branch, and technique coverages. To add new tests and enhance the three previously stated Coverage areas, two pairs each worked on the Range and DataUtilities classes. The findings were discussed by both pairs after they had completed obtaining the minimum required coverages. As a result, we were able to identify our errors and create the best evaluations. Throughout the duration of our collaboration, we explained ideas to each other and worked on our ideas together. This helped us immensely and enabled us to effectively complete the lab. We were able to learn from our errors and create the best evaluations as a result. Throughout this assignment, we collaborated and shared explanations of ideas with one another. This helped us immensely and enabled us to effectively complete the lab.
 
 # 9 Any difficulties encountered, challenges overcome, and lessons learned from performing the lab
 
